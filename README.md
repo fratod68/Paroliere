@@ -27,7 +27,11 @@
 
   ## Screenshots
 
-  *(coming soon)*
+  <img width="1097" height="875" alt="image" src="https://github.com/user-attachments/assets/2f33909b-ef32-4f39-97b6-24713fef1faf" />
+  <img width="1131" height="891" alt="image" src="https://github.com/user-attachments/assets/008ec319-05cc-4f8d-81cf-2d247c8b91b3" />
+  <img width="1131" height="891" alt="image" src="https://github.com/user-attachments/assets/669e2ee3-ed2f-4516-876f-7d0cdf167be3" />
+
+
 
   ## License
 
